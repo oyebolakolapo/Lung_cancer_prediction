@@ -1,9 +1,7 @@
 # BACKGROUND
 Lung cancer is one of the leading causes of cancer-related mortalities worlwide.Individuals across the socio-economic strata may be exposed to risk factors. Putative risk factors of lung cancer include smoking, exposure to environmental pollution etc. However, it is important for us to identify key features (risk factors) with the most accurate effect{s} on lung cancer etiology.
-
 # RATIONALE
 This project will develop a predictive model for lung cancer risk assessment using a comprehensive dataset of lung cancer outcomes.
-
 # FEATURES
 Gender Influence: To what extent does gender impact the likelihood of developing lung cancer, and are there notable gender-based disparities? (M/F)
 Age-Related Risk: How does age factor into the risk of lung cancer, and is there a particular age group more vulnerable? (continuous variable)
@@ -22,5 +20,5 @@ Shortness of breath (Yes=2/No=1)
 Swallowing difficulty (Yes=2/No=1)
 Assessing Chest Pain :How is chest pain related to the risk of developing lung cancer? (Yes=2/No=1)
 
-# METHODOLOGY 
-In this project, I focused on comparing the accuracy scores of various models to identify the most effective model for predicting lung cancer. By leveraging the dataset's predictors, I constructed and evaluated multiple models, each employing different algorithms or techniques. The performance of these models was assessed based on their accuracy in predicting lung cancer.
+# Dataset
+"/kaggle/input/cancer-patients-and-air-pollution-a-new-link/cancer patient data sets.csv"
