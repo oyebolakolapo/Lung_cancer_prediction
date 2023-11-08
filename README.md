@@ -22,5 +22,5 @@ Shortness of breath (Yes=2/No=1)
 Swallowing difficulty (Yes=2/No=1)
 Assessing Chest Pain :How is chest pain related to the risk of developing lung cancer? (Yes=2/No=1)
 
-# Methodology: 
+# METHODOLOGY 
 In this project, I focused on comparing the accuracy scores of various models to identify the most effective model for predicting lung cancer. By leveraging the dataset's predictors, I constructed and evaluated multiple models, each employing different algorithms or techniques. The performance of these models was assessed based on their accuracy in predicting lung cancer.
