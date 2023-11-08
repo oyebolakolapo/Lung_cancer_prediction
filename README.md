@@ -1,8 +1,8 @@
-# BACKGROUND
+# Background
 Lung cancer is one of the leading causes of cancer-related mortalities worlwide.Individuals across the socio-economic strata may be exposed to risk factors. Putative risk factors of lung cancer include smoking, exposure to environmental pollution etc. However, it is important for us to identify key features (risk factors) with the most accurate effect{s} on lung cancer etiology.
-# RATIONALE
+# Rationale
 This project will develop a predictive model for lung cancer risk assessment using a comprehensive dataset of lung cancer outcomes.
-# FEATURES
+# Features
 Gender Influence: To what extent does gender impact the likelihood of developing lung cancer, and are there notable gender-based disparities? (M/F)
 Age-Related Risk: How does age factor into the risk of lung cancer, and is there a particular age group more vulnerable? (continuous variable)
 Smoking History: How does a history of smoking relate to the risk of lung cancer, and is there a straightforward connection? (Yes=2/No=1)
