@@ -51,3 +51,15 @@ This project will develop a predictive model for lung cancer risk assessment usi
 
 # Dataset
 "/kaggle/input/cancer-patients-and-air-pollution-a-new-link/cancer patient data sets.csv"
+
+# Steps
+<img width="923" alt="image" src="https://github.com/oyebolakolapo/Lung_cancer_prediction/assets/40770957/39faba85-fc53-45b1-945d-1f4de0cbbda8">
+
+# Result interpretation
+The feature importance results provide insight into which features are most influential in predicting lung cancer using our Random Forest Model. The importance of a feature is calculated based on how much the tree nodes that use that feature reduce impurity across all trees in the forest.
+
+The key findings show that coughing of blood is the most important feature in lung cancer followed by passive smoking, obesity and wheezing.
+These results, however, should be interpreted with caution. 
+
+The importance of a feature in a Random Forest model doesn't necessarily mean a casual relationship, and it is specific to this model and this dataset. Other models might find different results. Additionally, low importance doesn't mean that the feature is unimportant for predicting lung cancer in general, it may just mean that the feature is not useful in the presence of the other features. A thorough feature analysis should be considered for a better understanding of the contribution of each feature in the prediction.
+
